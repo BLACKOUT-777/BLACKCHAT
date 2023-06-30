@@ -1,0 +1,496 @@
+{
+	"olá": [
+		"Olá! Tudo bem com você?",
+		"Ei, como posso ajudar?",
+		"Olá, estou aqui para conversar."
+	],
+	"tudo": [
+		"Que bom! O que deseja?",
+		"Que ótimo que esteja tudo bem!",
+		"Massa mano!"
+	],
+	"esporte": [
+		"Futebol, vôlei ou basquete? Qual deles você prefere?",
+		"Gosta de praticar algum esporte em especial?",
+		"Esportes são ótimos para manter o corpo ativo e saudável."
+	],
+	"ajuda": [
+		"Claro, estou aqui para ajudar! O que você precisa?",
+		"Em que posso ser útil para você?",
+		"Estou à disposição para ajudar no que for necessário."
+	],
+	"nome": [
+		"Meu nome é BLACKBOT, um chatbot programado para conversar com você.",
+		"Não tenho um nome real, mas você pode me chamar de BLACKBOT.",
+		"Meu nome é BLACKBOT, e estou aqui para responder suas perguntas."
+	],
+	"futebol": [
+		"Futebol é um esporte apaixonante! Você pratica ou prefere assistir aos jogos?",
+		"Você tem algum time de futebol favorito?",
+		"O futebol é o esporte mais popular do mundo e repleto de emoções."
+	],
+	"geografia": [
+		"A geografia é fascinante! Ela estuda o nosso planeta e as relações entre os lugares.",
+		"Você sabia que a geografia é dividida em várias áreas, como geografia física, humana e econômica?",
+		"A geografia nos ajuda a compreender o mundo em que vivemos e suas características."
+	],
+	"mapa": [
+		"Ler mapas é uma habilidade importante! Eles nos ajudam a nos localizar e entender o espaço ao nosso redor.",
+		"Você já teve a oportunidade de utilizar mapas em suas viagens?",
+		"Existem diferentes tipos de mapas, como os políticos, físicos e temáticos."
+	],
+	"clima": [
+		"O clima é um assunto interessante! Ele influencia as condições meteorológicas e o ambiente ao nosso redor.",
+		"Você tem preferência por algum tipo de clima em particular?",
+		"O clima é determinado por fatores como temperatura, umidade e pressão atmosférica."
+	],
+	"paisagem": [
+		"As paisagens geográficas são belas e diversas! Cada região possui suas características únicas.",
+		"Qual é a sua paisagem geográfica favorita? Praias, montanhas, florestas?",
+		"Admirar paisagens naturais é uma forma de apreciar a beleza do nosso planeta."
+	],
+	"oceano": [
+		"Os oceanos são vastos e cheios de mistérios! Eles cobrem a maior parte da superfície terrestre.",
+		"Você já teve a oportunidade de conhecer algum oceano de perto?",
+		"Os oceanos abrigam uma rica diversidade de vida marinha e possuem um papel fundamental no equilíbrio do planeta."
+	],
+	"montanha": [
+		"As montanhas são imponentes e oferecem vistas deslumbrantes! Elas são um desafio para os aventureiros e amantes da natureza.",
+		"Você já escalou alguma montanha ou tem vontade de fazer isso um dia?",
+		"As montanhas possuem uma grande importância ecológica e são habitats de várias espécies de fauna e flora."
+	],
+	"rio": [
+		"Os rios são correntes de água que desempenham um papel vital na natureza e no fornecimento de recursos.",
+		"Você já teve a oportunidade de conhecer algum rio famoso?",
+		"Os rios desempenham um papel importante na regulação do clima e são fonte de vida para diversas espécies."
+	],
+	"capital": [
+		"As capitais são cidades de grande importância política, administrativa e cultural.",
+		"Qual é a sua capital favorita? Você já teve a oportunidade de visitá-la?",
+		"As capitais são geralmente o centro das decisões políticas e econômicas de um país."
+	],
+	"latitude": [
+		"A latitude é uma coordenada geográfica que indica a distância em graus de um ponto em relação à linha do Equador.",
+		"Você sabe como a latitude é medida e quais são as latitudes extremas do planeta?",
+		"A latitude influencia diretamente o clima e a vegetação de uma região."
+	],
+	"longitude": [
+		"A longitude é uma coordenada geográfica que indica a distância em graus de um ponto em relação ao meridiano de Greenwich.",
+		"Você sabe como a longitude é medida e qual é a longitude do lugar onde você se encontra?",
+		"A longitude permite localizar um lugar específico no globo terrestre."
+	],
+	"fronteira": [
+		"As fronteiras delimitam os territórios entre diferentes países e regiões.",
+		"Você já teve a oportunidade de atravessar alguma fronteira?",
+		"As fronteiras podem apresentar diferenças culturais, políticas e socioeconômicas entre os países."
+	],
+	"continente": [
+		"Existem cinco continentes: América, Europa, África, Ásia e Oceania. Cada um possui características únicas.",
+		"Você já teve a oportunidade de visitar algum continente além do qual você reside?",
+		"A diversidade de culturas, paisagens e ecossistemas torna os continentes fascinantes."
+	],
+	"américa": [
+		"A América é um continente repleto de diversidade! Ela abrange desde as florestas tropicais da Amazônia até as paisagens deslumbrantes do Alasca.",
+		"Você sabia que a América é dividida em três partes: América do Norte, América Central e América do Sul?",
+		"A América é lar de uma rica variedade de culturas, povos e paisagens incríveis."
+	],
+	"europa": [
+		"A Europa é um continente cheio de história e encantos! Ela possui cidades históricas, castelos imponentes e uma rica herança cultural.",
+		"Você já teve a oportunidade de conhecer algum país europeu?",
+		"A Europa é conhecida por sua diversidade cultural e por abrigar algumas das mais belas paisagens do mundo."
+	],
+	"áfrica": [
+		"A África é um continente fascinante, com uma rica diversidade cultural e natural. Ela é lar de inúmeras espécies de animais selvagens e possui paisagens incríveis, como o Deserto do Saara e as savanas do Serengeti.",
+		"Você já teve a oportunidade de explorar algum país africano?",
+		"A África possui uma história rica e uma grande variedade de culturas, tornando-a um destino único para se conhecer."
+	],
+	"ásia": [
+		"A Ásia é o maior continente do mundo e abriga uma vasta gama de culturas, tradições e paisagens deslumbrantes.",
+		"Você já teve a oportunidade de visitar algum país asiático?",
+		"A Ásia é famosa por seus templos antigos, gastronomia diversificada e belezas naturais, como o Monte Everest e as praias paradisíacas."
+	],
+	"oceania": [
+		"A Oceania é um continente composto por diversas ilhas, incluindo a Austrália, a Nova Zelândia e as ilhas do Pacífico.",
+		"Você já teve a oportunidade de conhecer algum lugar na Oceania?",
+		"A Oceania é conhecida por suas belas praias, recifes de coral deslumbrantes e uma natureza exuberante."
+	],
+	"deserto": [
+		"Os desertos são áreas áridas e geralmente possuem pouca vegetação e recursos hídricos.",
+		"Você já teve a oportunidade de conhecer algum deserto famoso, como o Saara ou o Atacama?",
+		"Os desertos apresentam adaptações únicas por parte das plantas e animais que neles habitam."
+	],
+	"clima tropical": [
+		"O clima tropical é caracterizado por altas temperaturas e alta umidade ao longo do ano.",
+		"Você já teve a oportunidade de visitar uma região com clima tropical?",
+		"O clima tropical é ideal para o desenvolvimento de uma rica diversidade de flora e fauna."
+	],
+	"clima temperado": [
+		"O clima temperado é caracterizado por estações distintas, com verões quentes e invernos frios.",
+		"Você já teve a oportunidade de experimentar o clima temperado em algum lugar?",
+		"O clima temperado é encontrado em diversas regiões do mundo e influencia as atividades humanas e a vegetação local."
+	],
+	"futebol": [
+		"O futebol é um esporte popular em todo o mundo.",
+		"O futebol é jogado com uma bola e dois times de 11 jogadores cada."
+	],
+	"computador": [
+		"Computadores são incríveis, não é?",
+		"Qual é a sua marca de computador favorita?",
+		"Você já experimentou programar um computador?"
+	],
+	"musica": [
+		"Qual é o seu gênero de música favorito?",
+		"Você gosta de tocar algum instrumento musical?",
+		"Música é a trilha sonora da vida!"
+	],
+	"filmes": [
+		"Quais são os seus filmes favoritos?",
+		"Qual é o último filme que você assistiu?",
+		"Eu adoro filmes de ficção científica!"
+	],
+	"tecnologia": [
+		"Você está interessado em tecnologia?",
+		"Qual é a sua última descoberta tecnológica?",
+		"A tecnologia está sempre em constante evolução."
+	],
+	"viagem": [
+		"Qual é o seu destino de viagem dos sonhos?",
+		"Você gosta de viajar?",
+		"Viajar é uma das melhores experiências da vida!"
+	],
+	"amor": [
+		"O amor é um sentimento maravilhoso.",
+		"Você já se apaixonou?",
+		"O amor está no ar!"
+	],
+	"amigo": [
+		"Amigos são como tesouros.",
+		"Você tem muitos amigos?",
+		"Um verdadeiro amigo é para a vida toda."
+	],
+	"livros": [
+		"Qual é o seu livro favorito?",
+		"Você gosta de ler?",
+		"Livros podem nos transportar para outros mundos."
+	],
+	"comida": [
+		"Qual é a sua comida favorita?",
+		"Você gosta de cozinhar?",
+		"Comer é uma das melhores coisas da vida!"
+	],
+	"saude": [
+		"Cuide da sua saúde, ela é muito importante.",
+		"Você pratica algum esporte para se manter saudável?",
+		"A saúde é o nosso bem mais valioso."
+	],
+	"trabalho": [
+		"Como vai o seu trabalho?",
+		"Você gosta do que faz?",
+		"O trabalho é uma parte importante da nossa vida."
+	],
+	"estudo": [
+		"Você gosta de estudar?",
+		"Qual é a sua matéria favorita?",
+		"Estudar é uma forma de adquirir conhecimento."
+	],
+	"familia": [
+		"Como vai a sua família?",
+		"Você tem irmãos ou irmãs?",
+		"A família é o nosso porto seguro."
+	],
+	"passatempo": [
+		"Qual é o seu passatempo favorito?",
+		"O que você gosta de fazer nas horas livres?",
+		"Passatempos são ótimos para relaxar e se divertir."
+	],
+	"jogos": [
+		"Você gosta de jogar videogame?",
+		"Qual é o seu jogo favorito?",
+		"Jogos são uma ótima forma de entretenimento."
+	],
+	"carro": [
+		"Você gosta de carros?",
+		"Qual é o seu modelo de carro dos sonhos?",
+		"Carros podem ser uma paixão para muitas pessoas."
+	],
+	"animais": [
+		"Você gosta de animais?",
+		"Qual é o seu animal favorito?",
+		"Animais são seres incríveis e devemos protegê-los."
+	],
+	"natureza": [
+		"Você gosta de estar em contato com a natureza?",
+		"Qual é o seu lugar natural favorito?",
+		"A natureza é fonte de paz e inspiração."
+	],
+	"arte": [
+		"Você aprecia arte?",
+		"Qual é a sua forma de arte favorita?",
+		"A arte nos permite expressar nossa criatividade."
+	],
+	"cultura": [
+		"Você se interessa por diferentes culturas?",
+		"Qual é a sua cultura favorita?",
+		"A diversidade cultural é algo a ser valorizado."
+	],
+	"politica": [
+		"Qual é a sua opinião sobre política?",
+		"Você se interessa por assuntos políticos?",
+		"A política é um tema complexo e importante."
+	],
+	"fotografia": [
+		"Você gosta de tirar fotos?",
+		"Qual é o seu estilo de fotografia favorito?",
+		"Fotografias capturam momentos preciosos."
+	],
+	"memes": [
+		"Você gosta de memes?",
+		"Qual é o seu meme favorito?",
+		"Memes são uma forma de humor na internet."
+	],
+	"viola": [
+		"Você gosta de viola?",
+		"Qual é a sua música de viola favorita?",
+		"A viola é um instrumento musical muito expressivo."
+	],
+	"computacao": [
+		"Você se interessa por computação?",
+		"Qual é a sua área favorita da computação?",
+		"A computação está presente em diversos aspectos da nossa vida."
+	],
+	"ciencia": [
+		"Você gosta de ciência?",
+		"Qual é a sua área favorita da ciência?",
+		"A ciência nos ajuda a entender o mundo ao nosso redor."
+	],
+	"teatro": [
+		"Você gosta de teatro?",
+		"Qual é a sua peça teatral favorita?",
+		"O teatro é uma forma de arte muito emocionante."
+	],
+	"moda": [
+		"Você se interessa por moda?",
+		"Qual é o seu estilo de moda favorito?",
+		"A moda é uma forma de expressão pessoal."
+	],
+	"culinaria": [
+		"Você gosta de culinária?",
+		"Qual é o seu prato favorito?",
+		"A culinária nos permite explorar diferentes sabores."
+	],
+	"series": [
+		"Você gosta de assistir séries?",
+		"Qual é a sua série favorita?",
+		"As séries são viciantes!"
+	],
+	"games": [
+		"Qual é o seu jogo de videogame favorito?",
+		"Você gosta de jogar online?",
+		"Os games são uma forma de entretenimento popular."
+	],
+	"tecnologias": [
+		"Você está por dentro das últimas tecnologias?",
+		"Qual é a sua inovação tecnológica favorita?",
+		"As tecnologias estão revolucionando o mundo."
+	],
+	"educacao": [
+		"Você valoriza a educação?",
+		"Qual é a sua opinião sobre o sistema educacional?",
+		"A educação é fundamental para o desenvolvimento humano."
+	],
+	"viagens": [
+		"Qual é o seu lugar dos sonhos para viajar?",
+		"Você gosta de viajar sozinho ou acompanhado?",
+		"Viajar é uma forma de ampliar horizontes."
+	],
+	"filmes": [
+		"Qual é o seu filme favorito?",
+		"Você gosta de assistir filmes no cinema?",
+		"Os filmes nos transportam para outras realidades."
+	],
+	"livros": [
+		"Qual é o seu livro favorito?",
+		"Você prefere ler livros físicos ou digitais?",
+		"Os livros nos levam a mundos imaginários."
+	],
+	"musica": [
+		"Qual é o seu gênero musical favorito?",
+		"Você gosta de cantar ou tocar algum instrumento?",
+		"A música tem o poder de nos emocionar."
+	],
+	"amor": [
+		"O que o amor significa para você?",
+		"Você já esteve apaixonado?",
+		"O amor é um sentimento maravilhoso."
+	],
+	"esporte": [
+		"Qual é o seu esporte favorito?",
+		"Você pratica algum esporte regularmente?",
+		"O esporte é uma forma de manter a saúde e se divertir."
+	],
+	"saude": [
+		"Você se preocupa com a sua saúde?",
+		"Qual é a sua rotina de exercícios?",
+		"A saúde é o nosso bem mais precioso."
+	],
+	"trabalho": [
+		"Como vai o seu trabalho?",
+		"Você gosta do que faz?",
+		"O trabalho é uma parte importante da nossa vida."
+	],
+	"familia": [
+		"Como está a sua família?",
+		"Você tem irmãos ou irmãs?",
+		"A família é a base da nossa vida."
+	],
+	"amigos": [
+		"Como estão os seus amigos?",
+		"Você costuma sair com os seus amigos?",
+		"Amigos são essenciais para uma vida feliz."
+	],
+	"estudo": [
+		"Você gosta de estudar?",
+		"Qual é a sua matéria favorita?",
+		"Estudar é uma forma de adquirir conhecimento."
+	],
+	"carreira": [
+		"Qual é a sua área de atuação profissional?",
+		"Você tem algum objetivo de carreira?",
+		"A carreira é um aspecto importante da nossa vida."
+	],
+	"dinheiro": [
+		"Qual é a sua opinião sobre dinheiro?",
+		"Como você lida com as suas finanças?",
+		"O dinheiro é um recurso importante para a realização de nossos sonhos."
+	],
+	"viola": [
+		"Você gosta de viola?",
+		"Qual é a sua música de viola favorita?",
+		"A viola é um instrumento musical brasileiro tradicional."
+	],
+	"viagem": [
+		"Qual é o seu destino de viagem dos sonhos?",
+		"Você prefere viajar para praias ou cidades?",
+		"Viajar é uma forma de enriquecer a alma."
+	],
+	"animais": [
+		"Qual é o seu animal favorito?",
+		"Você tem algum animal de estimação?",
+		"Os animais são seres incríveis e devemos protegê-los."
+	],
+	"natureza": [
+		"Você gosta de estar em contato com a natureza?",
+		"Qual é o seu lugar natural favorito?",
+		"A natureza nos traz paz e equilíbrio."
+	],
+	"arte": [
+		"Você aprecia arte?",
+		"Qual é a sua forma de arte favorita?",
+		"A arte nos permite expressar nossas emoções."
+	],
+	"cultura": [
+		"Você se interessa por diferentes culturas?",
+		"Qual é a sua cultura favorita?",
+		"A diversidade cultural enriquece o mundo."
+	],
+	"espiritualidade": [
+		"Você pratica alguma religião ou espiritualidade?",
+		"Qual é a sua visão sobre espiritualidade?",
+		"A espiritualidade traz significado para a vida de muitas pessoas."
+	],
+	"politica": [
+		"Qual é a sua opinião sobre política?",
+		"Você acompanha os acontecimentos políticos?",
+		"A política é um tema que afeta a sociedade como um todo."
+	],
+	"fotografia": [
+		"Você gosta de fotografar?",
+		"Qual é o seu estilo de fotografia favorito?",
+		"A fotografia é uma forma de eternizar momentos."
+	],
+	"memes": [
+		"Você gosta de memes?",
+		"Qual é o seu meme favorito?",
+		"Os memes são uma forma de humor na internet."
+	],
+	"filosofia": [
+		"Você se interessa por filosofia?",
+		"Qual é a sua corrente filosófica favorita?",
+		"A filosofia nos faz questionar e refletir sobre o mundo."
+	],
+	"meditacao": [
+		"Você pratica meditação?",
+		"Qual é a sua técnica de meditação preferida?",
+		"A meditação traz benefícios para o corpo e a mente."
+	],
+	"gastronomia": [
+		"Você gosta de gastronomia?",
+		"Qual é a sua culinária favorita?",
+		"A gastronomia é uma forma de arte e prazer."
+	],
+	"design": [
+		"Você se interessa por design?",
+		"Qual é a sua área de design favorita?",
+		"O design está presente em nosso cotidiano."
+	],
+	"espiritualidade": [
+		"Você se considera uma pessoa espiritual?",
+		"Qual é a sua prática espiritual favorita?",
+		"A espiritualidade traz conexão e significado para a vida."
+	],
+	"moda": [
+		"Você acompanha as tendências da moda?",
+		"Qual é o seu estilo de moda favorito?",
+		"A moda é uma forma de expressão e criatividade."
+	],
+	"cultura": [
+		"Você gosta de explorar diferentes culturas?",
+		"Qual é a sua cultura favorita?",
+		"A cultura nos enriquece e nos permite compreender o mundo."
+	],
+	"entretenimento": [
+		"Qual é a sua forma de entretenimento favorita?",
+		"O que você gosta de fazer para se divertir?",
+		"O entretenimento é importante para relaxar e aproveitar a vida."
+	],
+	"ciencia": [
+		"Você se interessa por ciência?",
+		"Qual é a sua área de ciência favorita?",
+		"A ciência nos ajuda a compreender o funcionamento do universo."
+	],
+	"teatro": [
+		"Você gosta de teatro?",
+		"Qual é a sua peça teatral favorita?",
+		"O teatro é uma forma de arte que emociona e inspira."
+	],
+	"literatura": [
+		"Você gosta de literatura?",
+		"Qual é o seu gênero literário favorito?",
+		"A literatura nos transporta para outros mundos e realidades."
+	],
+	"culinaria": [
+		"Você gosta de cozinhar?",
+		"Qual é o seu prato favorito?",
+		"A culinária é uma forma de criar e compartilhar momentos especiais."
+	],
+	"series": [
+		"Qual é a sua série de TV favorita?",
+		"Você gosta de maratonar séries?",
+		"As séries são uma forma de entretenimento viciante."
+	],
+	"jogos": [
+		"Você gosta de jogar jogos de videogame?",
+		"Qual é o seu jogo preferido?",
+		"Os jogos são uma forma de diversão e desafio."
+	],
+	"tecnologia": [
+		"Você está por dentro das últimas tendências tecnológicas?",
+		"Qual é a sua inovação tecnológica favorita?",
+		"A tecnologia está sempre em evolução e impactando nossas vidas."
+	],
+	"educacao": [
+		"Você acredita na importância da educação?",
+		"Qual é a sua opinião sobre o sistema educacional atual?",
+		"A educação é fundamental para o desenvolvimento humano e social."
+	]
+}

@@ -1,0 +1,53 @@
+﻿*BLACKBOT*{
+
+ESTE CHATBOT FOI CRIADO COM INTUITO EDUCACIONAL, QUALQUER DANO A SI OU TERCEIROS SERÁ INTEIRAMENTE RESPONSABILIDADE DO USUÁRIO!
+
+}
+
+1 {
+
+Esta função é responsável por carregar as respostas do arquivo JSON.
+Ela verifica se o arquivo existe e, se sim, lê o conteúdo do arquivo
+e o desserializa em um dicionário respostas do tipo Dictionary<string, List<string>>.
+Caso ocorra algum erro na leitura ou desserialização, uma mensagem de erro é exibida
+e um dicionário vazio é atribuído a respostas. Se o arquivo não existir, um dicionário vazio é criado.
+
+}
+2{
+
+Essa função é responsável por salvar as respostas no arquivo JSON.
+Ela converte o dicionário respostas em uma string JSON usando a função JsonConvert.SerializeObject().
+Em seguida, escreve essa string no arquivo especificado pelo caminho arquivoJson.
+Se ocorrer algum erro durante o processo de escrita, uma mensagem de erro é exibida.
+
+}
+3{
+
+Este é o manipulador de eventos para o clique no botão "Enviar". Quando o botão é clicado, a função é chamada.
+Ela obtém a frase digitada pelo usuário, remove espaços em branco no início e fim, e a converte para letras minúsculas.
+Em seguida, divide a frase em palavras com base nos caracteres separadores especificados.
+Para cada palavra, verifica se ela está presente no dicionário respostas. 
+Se estiver, seleciona uma resposta aleatória entre as respostas disponíveis para essa palavra-chave e a adiciona à lista respostasEncontradas.
+Em seguida, exibe as respostas encontradas na interface do usuário e limpa o campo de texto.
+
+}
+4 {
+
+Este é o manipulador de eventos para a tecla pressionada no campo de texto txtFrase.
+Ele verifica se a tecla pressionada é Enter e, se for, chama o evento buttonEnviar_Click() para simular o clique no botão "Enviar".
+
+}
+5 {
+
+Essa função é responsável por adicionar uma resposta às palavras-chave. 
+Ela recebe uma palavra-chave e uma resposta como argumentos e as adiciona ao dicionário respostas.
+Se a palavra-chave já existir no dicionário, a resposta é substituída pela nova.
+Em seguida, a função SalvarRespostas() é chamada para salvar as alterações no arquivo JSON.
+
+}
+6 {
+
+Este é o manipulador de eventos para o clique no botão "Adicionar". Quando o botão é clicado, a função é chamada.
+Recebe a entrada do usuário de uma palavra-chave e uma ou várias respostas.
+Após isso é chamada a função 5 para adicionar a resposta, limpando as caixas de texto.
+}

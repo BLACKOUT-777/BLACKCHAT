@@ -1,0 +1,13 @@
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\bin\Debug\BLACKCHAT.exe.config
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\bin\Debug\BLACKCHAT.exe
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\bin\Debug\BLACKCHAT.pdb
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\obj\Debug\BLACKCHAT.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\obj\Debug\BLACKCHAT.Form1.resources
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\obj\Debug\BLACKCHAT.Properties.Resources.resources
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\obj\Debug\BLACKCHAT.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\obj\Debug\BLACKCHAT.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\obj\Debug\BLACKCHAT.csproj.CopyComplete
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\obj\Debug\BLACKCHAT.exe
+C:\Users\antho\source\repos\BLACKCHAT\BLACKCHAT\obj\Debug\BLACKCHAT.pdb
